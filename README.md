@@ -1,10 +1,5 @@
-# ToDo Console App
+# Ünversite Yönetim Sistemi Diagramı
 
-## İçerikler
 
-- Kart Ekle
-- Kart Güncelle
-- Kart Sil
-- Kart Taşı
-- Board Listeleme
-- Personel Ekleme
+
+![Üniversite Yönetim Sistemi](/D:\USERDATA\Masaüstü\Diagram1.png "Üniversite Yönetim Sistemi").
